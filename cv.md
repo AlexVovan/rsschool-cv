@@ -8,6 +8,9 @@
 *Email*</br>
 alehnovich.vova@gmail.com
 
+*Skype*</br>
+`live:.cid.6a0fc9d12be28262`
+
 *Address*</br>
 220062,Minsk,
 Pobediteley str.135Б-76
