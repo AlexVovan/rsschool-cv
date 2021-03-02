@@ -10,7 +10,7 @@ alehnovich.vova@gmail.com
 
 *Address*</br>
 220062,Minsk,
-Pobediteley str.135-76
+Pobediteley str.135Б-76
 ## **-Education**
 * Zhirovichi Agricultural College, mechanic,(1993-1997)
 * Belarusian State Agrarian Technical University, Engineer,(1997-2001)
