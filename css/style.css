@@ -10,12 +10,12 @@ body {
 .container {
     display: flex;
     justify-content: space-between;
-    border: 2px solid black;
     width: 1000px;
-    height: 975px;
+    height: 955px;
     margin: 0 auto;
     padding: 0;
     background-color: #fff;
+    box-shadow: 25px 10px 8px 7px #2c2c2c;
 }
 
 .left {
