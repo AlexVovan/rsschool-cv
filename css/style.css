@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #97989988;
+    background-color: #595a5c;
     margin: 0;
     padding: 0;
     font-size: 18px;
@@ -11,11 +11,12 @@ body {
     display: flex;
     justify-content: space-between;
     width: 1000px;
-    height: 955px;
+    height: 950px;
     margin: 0 auto;
     padding: 0;
     background-color: #fff;
-    box-shadow: 25px 10px 8px 7px #2c2c2c;
+    box-shadow: 35px 20px 18px 1px #2c2c2c;
+    border: 1px solid black; border-bottom: none;
 }
 
 .left {
@@ -58,6 +59,44 @@ h2 {
 
 h1 {
     color: black;
+}
+
+.main-footer {
+    display: block;
+    background-color: #595a5c;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    width: 980px;
+    margin: 0 auto;
+    padding: 0 10px;
+    box-shadow: 35px 2px 18px 1px #2c2c2c;
+    border: 1px solid black; border-top: none;
+}
+
+.footer-contacts {
+    display: block;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.footer-logo {
+    display: block;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.footer-social {
+    display: block;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 50px;
 }
 
 
